@@ -1,0 +1,2 @@
+Adafruit_Blinka==8.47.0
+adafruit_circuitpython_dht==4.0.4
